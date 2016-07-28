@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">屏幕适配</string>
+    <string name="hint_userName">请输入用户名</string>
+    <string name="hint_pwd">请输入密码</string>
+    <string name="login_userName_emptyHint">用户名不能为空</string>
+    <string name="login_userPwd_emptyHint">密码不能为空</string>
+    <string name="login_success">用户登录成功</string>
+    <string name="login_fail">用户登录失败</string>
+    <string name="login_button_name">登录</string>
+    <string name="reset_button_name">重置</string>
+</resources>
